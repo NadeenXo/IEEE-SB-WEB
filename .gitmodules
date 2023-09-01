@@ -1,0 +1,15 @@
+[submodule "flex-box"]
+	path = flex-box
+	url = https://github.com/NadeenXo/flexboxWebpage.git
+[submodule "calculator"]
+	path = calculator
+	url = https://github.com/NadeenXo/happyCalculator.git
+[submodule "restaurant"]
+	path = restaurant
+	url = https://github.com/NadeenXo/restaurant-website.git
+[submodule "courses-website"]
+	path = courses-website
+	url = https://github.com/NadeenXo/CourseMania.git
+[submodule "xo-game"]
+	path = xo-game
+	url = https://github.com/NadeenXo/Tic-Tac-Toe.git
